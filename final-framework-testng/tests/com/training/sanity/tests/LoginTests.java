@@ -1,4 +1,4 @@
-package com.training.sanity.tests;
+/*package com.training.sanity.tests;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -52,4 +52,4 @@ public class LoginTests {
 		loginPOM.clickLoginBtn(); 
 		screenShot.captureScreenShot("First");
 	}
-}
+}*/
