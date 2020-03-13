@@ -3,14 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.training.sanity.tests.RETC_38">
+      <class name="com.training.sanity.tests.UNF_077">
         <methods>
-          <include name="RETC_037"/>
-          <include name="setUpBeforeClass"/>
           <include name="setUp"/>
-          <include name="tearDown"/>
+          <include name="UNF_077"/>
+          <include name="setUpBeforeClass"/>
         </methods>
-      </class> <!-- com.training.sanity.tests.RETC_38 -->
+      </class> <!-- com.training.sanity.tests.UNF_077 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

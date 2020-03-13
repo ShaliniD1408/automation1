@@ -2,28 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="27303" started-at="2020-03-05T07:40:40Z" finished-at="2020-03-05T07:41:07Z">
+  <suite name="Default suite" duration-ms="51396" started-at="2020-03-13T01:12:07Z" finished-at="2020-03-13T01:12:59Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="27303" started-at="2020-03-05T07:40:40Z" finished-at="2020-03-05T07:41:07Z">
-      <class name="com.training.sanity.tests.RETC_023">
-        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.RETC_023@457e2f02]" name="setUpBeforeClass" is-config="true" duration-ms="11" started-at="2020-03-05T13:10:40Z" finished-at="2020-03-05T13:10:40Z">
+    <test name="Default test" duration-ms="51396" started-at="2020-03-13T01:12:07Z" finished-at="2020-03-13T01:12:59Z">
+      <class name="com.training.sanity.tests.UNF_078">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.UNF_078@4cc0edeb]" name="setUpBeforeClass" is-config="true" duration-ms="17" started-at="2020-03-13T06:42:07Z" finished-at="2020-03-13T06:42:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBeforeClass -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.RETC_023@457e2f02]" name="setUp" is-config="true" duration-ms="16178" started-at="2020-03-05T13:10:40Z" finished-at="2020-03-05T13:10:56Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.UNF_078@4cc0edeb]" name="setUp" is-config="true" duration-ms="16854" started-at="2020-03-13T06:42:08Z" finished-at="2020-03-13T06:42:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="RETC_022()[pri:0, instance:com.training.sanity.tests.RETC_023@457e2f02]" name="RETC_022" duration-ms="10195" started-at="2020-03-05T13:10:56Z" finished-at="2020-03-05T13:11:06Z">
+        <test-method status="PASS" signature="UNF_078()[pri:0, instance:com.training.sanity.tests.UNF_078@4cc0edeb]" name="UNF_078" duration-ms="34505" started-at="2020-03-13T06:42:24Z" finished-at="2020-03-13T06:42:59Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- RETC_022 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.RETC_023@457e2f02]" name="tearDown" is-config="true" duration-ms="897" started-at="2020-03-05T13:11:06Z" finished-at="2020-03-05T13:11:07Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.training.sanity.tests.RETC_023 -->
+        </test-method> <!-- UNF_078 -->
+      </class> <!-- com.training.sanity.tests.UNF_078 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
